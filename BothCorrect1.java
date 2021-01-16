@@ -26,6 +26,8 @@ txtPassword.sendKeys("admin123");
 WebElement login=driver.findElement(By.id("btnLogin"));
 login.clear();
 driver.quit();
+		
+		xhheolljof
 }
 
 }
